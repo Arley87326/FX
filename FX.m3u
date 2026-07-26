@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,FX
+https://xyzstreams.st/247.html?streamid=fx&proid=sling
+#EXTINF:-1,FX Movie Channel
+https://xyzstreams.st/247?streamid=fxm&proid=sling
+#EXTINF:-1,FXX
+https://xyzstreams.st/247?streamid=fxx&proid=sling
