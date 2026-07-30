@@ -1,8 +1,7 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:11
-#EXTINF:15.0,
-http://23.237.104.106:8080/USA_FX/index.m3u8
-#EXT-X-ENDLIST
+#EXTINF:-1,FX
+https://messi.damitv.st/papi/ts/fx-usa/playlist.m3u8
+#EXTINF:-1,FX Movie Channel
+https://messi.damitv.st/papi/ts/fxm-usa/playlist.m3u8
+#EXTINF:-1,FXX
+https://messi.damitv.st/papi/ts/fxx-usa/playlist.m3u8
